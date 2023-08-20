@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('font/iCiel_Pacifico.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Tales';
+    src: url('font/Fairy_Tales.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Cadena';
+    src: url('font/iciel_Cadena.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Avo';
+    src: url('font/utm-avo.woff') format('truetype');
+}
+
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+
+
+.title1 {
+    font-family: 'Pacifico';
+}
+
+
+.title2 {
+    font-family: 'Tales';
+}
+
+
+.title3 {
+    font-family: 'Cadena';
+}
+
+.title4 {
+    font-family: 'Avo';
+}
+
+body {
+    background-color: #f1ddb3;
+}
