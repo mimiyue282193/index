@@ -28,6 +28,10 @@
     padding: 15px;
 }
 
+.footer .dropdown-toggle::after {
+    display: none !important;
+  }
+
 
 
 .title1 {
