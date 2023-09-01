@@ -48,15 +48,15 @@
     position: fixed;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 12vw;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     padding: 15px;
 }
 
 .footer .dropdown-toggle::after {
     display: none !important;
-  }
+}
 
 
 
@@ -78,7 +78,6 @@
     font-family: 'Avo';
 }
 
-.body {
-    background-color: #fcefd4;
+.bgall {
+    background-color: #fcf3e3;
 }
-
